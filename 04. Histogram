@@ -32,7 +32,7 @@ public class MarchHistogram {
                 p5 ++;
             }
         }
-       double p1Proc = p1 *100 / n;
+        double p1Proc = p1 *100 / n;
         double p2Proc = p2 *100 / n;
         double p3Proc = p3 *100 / n;
         double p4Proc = p4 *100 / n;
